@@ -6,3 +6,6 @@
 3333 http://ca-3333-isott.mugassn.dpdns.org
 4444 http://ca-4444-isott.mugassn.dpdns.org
 5555 http://ca-5555-isott.mugassn.dpdns.org
+
+# Serveo SSH Key Fingerprint:
+# SHA256:G0NsZDu1JHl9Nah4OCQ64PsAwGR8quhoOGvTc1byuUo

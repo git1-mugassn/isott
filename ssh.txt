@@ -1,0 +1,2 @@
+ssh -J host.mugassn.dpdns.org root@ca-isott
+password: 1mQejYOnEtjsuJWT
