@@ -1,0 +1,8 @@
+7000 http://ca-7000-isott.mugassn.dpdns.org
+9000 http://ca-9000-isott.mugassn.dpdns.org
+5000 http://ca-5000-isott.mugassn.dpdns.org
+8080 http://ca-8080-isott.mugassn.dpdns.org
+2222 http://ca-2222-isott.mugassn.dpdns.org
+3333 http://ca-3333-isott.mugassn.dpdns.org
+4444 http://ca-4444-isott.mugassn.dpdns.org
+5555 http://ca-5555-isott.mugassn.dpdns.org
